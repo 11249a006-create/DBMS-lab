@@ -160,3 +160,6 @@ VALUES (101, 2, 150);
 FOREIGN KEY violation
 INSERT INTO Enrollment (roll_no, course_id, marks)
 VALUES (999, 1, 70);
+//Result
+//Queries using IN, ANY, ALL, EXISTS, NOT EXISTS, UNION, UNION ALL, and INTERSECT
+//were successfully written and executed, and the integrity constraints on the schema were verified.
